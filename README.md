@@ -6,5 +6,5 @@
 ## Product Description 
 ![2](https://user-images.githubusercontent.com/31513483/86829680-51f5db00-c0b2-11ea-80a6-a337540799aa.PNG)
 
-## Cart Detail
+## Cart Details
 ![3](https://user-images.githubusercontent.com/31513483/86829958-b022be00-c0b2-11ea-843d-9d62cf79caef.PNG)
